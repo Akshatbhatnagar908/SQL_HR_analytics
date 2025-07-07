@@ -2,16 +2,6 @@
 
 This repository presents an analytical exploration of an HR dataset to understand employee behavior, satisfaction, performance, and attrition trends using SQL queries.
 
-## 💼 Team Members (Group H)
-
-* Akshat Bhatnagar
-* Tanmay Jain
-* Ayushi
-* Shashwat Jain
-* Utkarsh Gupta
-
-**College**: JECRC University
-
 ---
 
 ## 📁 Dataset Overview
